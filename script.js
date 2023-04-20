@@ -19,7 +19,6 @@ function LOADER() {
   /*------------------------------CURSOR------------------------------*/
 
   // Cursor tarcker
-/*
   const cursorDot = document.querySelector(".cursor-dot");
   const cursor = document.querySelector(".cursor");
   const anchor = document.querySelectorAll("a");
@@ -45,7 +44,6 @@ function LOADER() {
       cursor.style.display = "";
     });
   });
-*/
   /*------------------------------MENU------------------------------*/
 
   // Menu button
